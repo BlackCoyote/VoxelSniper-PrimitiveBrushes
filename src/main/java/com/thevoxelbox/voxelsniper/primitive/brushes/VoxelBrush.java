@@ -1,4 +1,4 @@
-package com.thevoxelbox.voxelsniper.brush;
+package com.thevoxelbox.voxelsniper.primitive.brushes;
 
 import com.thevoxelbox.voxelsniper.SnipeData;
 import com.thevoxelbox.voxelsniper.Message;

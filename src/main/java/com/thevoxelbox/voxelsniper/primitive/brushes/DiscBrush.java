@@ -1,4 +1,4 @@
-package com.thevoxelbox.voxelsniper.brush;
+package com.thevoxelbox.voxelsniper.primitive.brushes;
 
 import org.bukkit.ChatColor;
 import org.bukkit.block.Block;
